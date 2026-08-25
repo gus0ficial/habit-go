@@ -1,0 +1,15 @@
+"añadidos cambios"
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/README.md b/README.md
+index 4c8db5b..8349e68 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,3 @@
+ # habit-go
++
++**Spanish/Español:** Este es un pequeño proyecto sin mayores aspiraciones que las de permitir llevar un control de los habitos del usuario; no más, no menos
+\ No newline at end of file
