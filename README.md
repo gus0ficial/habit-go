@@ -5,3 +5,12 @@
 # Stack
 
 - Go 1.26.xx
+- Sublime Text
+	- Plugins
+		- GitGutter
+		- LSP-gopls
+- xfce-terminal
+
+# Estandares
+
+- Lower Camel Case
